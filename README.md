@@ -2,7 +2,7 @@
 
 **Just some random dude experimenting around**
 
-I love making stuff from bottom up in C
+Love to explore any kind of ideas 
 
 
 <!--
