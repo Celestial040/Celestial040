@@ -4,7 +4,7 @@
 
 Love to explore any kind of ideas 
 
-Love programming in C
+Love to program in C
 
 
 <!--
