@@ -3,6 +3,7 @@
 **Just some random dude experimenting around**
 
 Love to explore any kind of ideas 
+Love programming in C
 
 
 <!--
